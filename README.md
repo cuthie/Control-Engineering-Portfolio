@@ -19,9 +19,6 @@ It highlights practical applications using simulation and hardware (Arduino, mag
 - Single and multi-variable MPC implementations.  
 - Simulation and potential for hardware deployment.  
 
-### 4. Distributed MPC *(planned/optional)*  
-- Multi-agent systems with distributed optimization.  
-- Focus on scalability and robustness.
 
 ### 5. System Identification
 - Data-driven modeling of dynamic systems.  
